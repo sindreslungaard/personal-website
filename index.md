@@ -1,1 +1,1 @@
-- [Relative link](./pixel.html)
+- [My pixel art journey](./pixel.html)
