@@ -1,1 +1,1 @@
-- [Relative link](/pixel.html)
+- [Relative link](./pixel.html)
