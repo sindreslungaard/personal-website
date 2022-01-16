@@ -15,3 +15,11 @@ I was going to draw something, but spent the night setting up this little blog t
 Tomorrow never happened.. But I made a plant today.
 
 ![pixel plant](./assets/plant.png)
+
+<br>
+
+> 16.01.2022
+
+Two calendar years later.. Not much to show for. Tried to make a crt tv.
+
+![pixel crt](./assets/crt.png)
