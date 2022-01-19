@@ -23,3 +23,9 @@ Tomorrow never happened.. But I made a plant today.
 Two calendar years later.. Not much to show for. Tried to make a crt tv.
 
 ![pixel crt](./assets/crt.png)
+
+> 18.01.2022
+
+Almost two days in a row!
+
+![pixel crt](./assets/man.png)
